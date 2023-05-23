@@ -1,2 +1,1 @@
-# prepcourse_henry
-Este es un repositorio de prueba para henrry 2 a la bestia
+este proyecto es una prueba de como crear una prueba y cloanrlo
